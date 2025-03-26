@@ -236,4 +236,4 @@ print(f"안녕하세요")
 
 str1, str2 = input().strip().split(' ')
 print(str1.strip())
-print(str2.strip())
+# print(str2.strip())
